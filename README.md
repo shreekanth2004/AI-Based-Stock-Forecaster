@@ -16,7 +16,7 @@ It can predict the next 10 days of stock prices with approximately **70% accurac
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 - **Backend:** Python, Flask, TensorFlow/Keras, Scikit-learn, yfinance
 - **Frontend:** HTML, CSS, JavaScript
 - **Libraries:** pandas, numpy, matplotlib
@@ -38,6 +38,5 @@ please contact me:
 
 ---
 
-## 📄 License
+## License
 This project is **All Rights Reserved**.  
-See the [LICENSE](LICENSE) file for more details.
